@@ -1,15 +1,13 @@
-<h1>Hi, I'm Carl! IT and Cybersecurity Enthusiast  </h1>
+<h1>Hi, I'm Carl! an IT and Cyber Security Enthusiast  </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC / Honeynet in Azure] (https://github.com/ctstephens/Azure-SOC-Honeynet) 
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Popular YouTube Videos I Recommend:</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [How to get into Cyber Security Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <h2> 🤳 Connect with me:</h2>
 
