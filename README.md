@@ -7,7 +7,7 @@
 
 <h2>📺 Popular YouTube Videos I Recommend:</h2>
 
-- [How to get into Cyber Security Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [The Best Cyber Security Course on the Web](https://www.youtube.com/watch?v=9Nx-v7pTBiM)
 
 <h2> 🤳 Connect with me:</h2>
 
