@@ -1,9 +1,9 @@
-<h1>Hi, I'm Carl! an IT and Cyber Security Enthusiast  </h1>
+<h1>Hi there, I'm Carl! an IT and Cyber Security Enthusiast  </h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Azure / Cloud Projects</b>
-  - [Creating a Live SOC / Honeynet in Azure] (https://github.com/ctstephens/Azure-SOC-Honeynet) 
+  - [Creating a Live SOC - Honeynet in Azure](https://github.com/ctstephens/Azure-SOC-Honeynet) 
 
 <h2>📺 Popular YouTube Videos I Recommend:</h2>
 
