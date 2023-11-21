@@ -3,7 +3,8 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Azure / Cloud Projects</b>
-  - [Creating a Live SOC - Honeynet in Azure](https://github.com/ctstephens/Azure-SOC-Honeynet) 
+  - [Creating a Live SOC - Honeynet in Azure](https://github.com/ctstephens/Azure-SOC-Honeynet)
+  - [OpenVAS Vulberability Management](https://github.com/ctstephens/OpenVAS-Vulnerability-Management)
 
 <h2>📺 Popular YouTube Videos I Recommend:</h2>
 
@@ -11,6 +12,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![Linkedin Icon](https://github.com/ctstephens/ctstephens/assets/150542854/e1e96eb7-9795-4bd6-89f9-8a48f8b56989)]
 
 [linkedin]: https://www.linkedin.com/in/carltstephens/
