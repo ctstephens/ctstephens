@@ -12,6 +12,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[![Linkedin Icon](https://github.com/ctstephens/ctstephens/assets/150542854/e1e96eb7-9795-4bd6-89f9-8a48f8b56989)]
+![Linkedin Icon](https://github.com/ctstephens/ctstephens/assets/150542854/e1e96eb7-9795-4bd6-89f9-8a48f8b56989)
 
 [linkedin]: https://www.linkedin.com/in/carltstephens/
