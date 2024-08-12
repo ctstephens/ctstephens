@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Carl! an IT and Cyber Security Enthusiast  </h1>
+<h1>Hi there, I'm Carl! IT and Cyber Security Enthusiast  </h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
