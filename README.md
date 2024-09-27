@@ -8,7 +8,7 @@
 
 <h2>📺 Popular YouTube Videos I Recommend:</h2>
 
-- [The Best Cyber Security Course on the Web](https://www.youtube.com/watch?v=9Nx-v7pTBiM)
+- [The Best Cyber Security SOC Analyst Course on the Web](https://www.youtube.com/watch?v=9Nx-v7pTBiM)
 
 <h2> 🤳 Connect with me:</h2>
 
