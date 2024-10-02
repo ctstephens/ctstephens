@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Azure / Cloud Projects</b>
+- <b>Azure / Cloud / SOC Projects</b>
   - [Creating a Live SOC - Honeynet in Azure](https://github.com/ctstephens/Azure-SOC-Honeynet)
   - [OpenVAS Vulberability Management](https://github.com/ctstephens/OpenVAS-Vulnerability-Management)
 
