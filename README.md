@@ -6,6 +6,9 @@
   - [Creating a Live SOC - Honeynet in Azure](https://github.com/ctstephens/Azure-SOC-Honeynet)
   - [OpenVAS Vulberability Management](https://github.com/ctstephens/OpenVAS-Vulnerability-Management)
 
+- <b>GRC Projects</b>
+  - []
+
 <h2>📺 Popular YouTube Videos I Recommend:</h2>
 
 - [The Best Cyber Security SOC Analyst Course on the Web](https://www.youtube.com/watch?v=9Nx-v7pTBiM)
