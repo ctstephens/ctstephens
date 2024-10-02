@@ -9,7 +9,7 @@
 - <b>GRC Projects</b>
   - []
 
-<h2>🖥️ Hands-On Cybersecurity/SOC Analyst course for Beginners</h2>
+<h2>🖥️ Hands-On Cybersecurity/SOC Analyst Course for Beginners</h2>
 
 - [The Best Cyber Security SOC Analyst Course on the Web](https://www.youtube.com/watch?v=9Nx-v7pTBiM)
 
