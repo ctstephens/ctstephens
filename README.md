@@ -10,6 +10,10 @@
 
 - [The Best Cyber Security SOC Analyst Course on the Web](https://www.youtube.com/watch?v=9Nx-v7pTBiM)
 
+<h2>🖥️ Best GRC Course for absolute Beginners</h2>
+
+- [I Want To Be a GRC Analyst, Now What?](https://www.youtube.com/watch?v=WxmJ1df8-2U&list=PL4Q-ttyNIRAqsaKLH56vaC3167TKgE3xg&index=4)
+
 <h2> 🤳 Connect with me:</h2>
 
 ![Linkedin Icon](https://github.com/ctstephens/ctstephens/assets/150542854/e1e96eb7-9795-4bd6-89f9-8a48f8b56989)
