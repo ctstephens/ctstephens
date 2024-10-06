@@ -7,7 +7,7 @@
   - [OpenVAS Vulberability Management](https://github.com/ctstephens/OpenVAS-Vulnerability-Management)
 
 - <b>GRC Projects</b>
-  - [NIST 800-53 GRC ANALYST LAB]()
+  - [NIST 800-53 GRC ANALYST LAB](https://github.com/ctstephens/GRC-LAB-NIST-SP-800-53-Rev5)
   - [ISO 27001 GRC ANALYST LAB]()
 
 <h2>🖥️ Hands-On Cybersecurity/SOC Analyst Course for Beginners</h2>
